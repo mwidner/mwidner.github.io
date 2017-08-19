@@ -6,6 +6,8 @@ redirect_from:
   - /about.html
 ---
 
+About Me
+======
 
 I work as the Academic Technology Specialist for the Division of Literatures, Cultures, and Languages (DLCL). My role is to work with faculty and their research assistants as a consultant, collaborator, and innovator in DLCL-based digital humanities and instructional technology projects. I also organize and present workshops and lectures on practices and theories in these realms. 
 
