@@ -1,6 +1,5 @@
 ---
 permalink: /
-title: "About"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -16,4 +15,4 @@ I work as the Academic Technology Specialist for the Division of Literatures, Cu
 About this Site
 ======
 
-This site uses the excellent [https://github.com/academicpages/academicpages.github.io|academicpages template].
+This site uses the excellent [https://github.com/academicpages/academicpages.github.io](academicpages template).
