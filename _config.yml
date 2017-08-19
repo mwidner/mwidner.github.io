@@ -80,9 +80,9 @@ analytics:
 author:
   name             : "Michael Widner"
   avatar           : "profile_picture.jpg"
-  bio              : "Scholar of Digital Humanities and Medieval Literature"
-  location         : "Stanford, CA"
-  employer         : "Stanford"
+  bio              : "Digital Humanities and Medieval Literature"
+  location         : 
+  employer         : "Stanford University"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=RmrJsewAAAAJ"
   email            :
   uri              :
