@@ -16,3 +16,4 @@ I work as the Academic Technology Specialist for the Division of Literatures, Cu
 About this Site
 ======
 
+This site uses the excellent [https://github.com/academicpages/academicpages.github.io|academicpages template].
