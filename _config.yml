@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Michael Widner"
 title_separator          : "-"
 name                     : &name "Michael Widner"
-description              : &description "personal description"
+description              : &description "Personal website for Michael Widner"
 url                      : https://mwidner.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "mwidner/academicpages.github.io"
@@ -82,8 +82,7 @@ author:
   avatar           : "profile_picture.jpg"
   bio              : "Scholar of Digital Humanities and Medieval Literature"
   location         : "Stanford, CA"
-  employer         : "Stanford Libraries
-  Divison of Literatures, Cultures, and Languages"
+  employer         : "Stanford"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=RmrJsewAAAAJ"
   email            :
   uri              :
