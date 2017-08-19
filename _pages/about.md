@@ -9,7 +9,7 @@ redirect_from:
 About Me
 ======
 
-I work as the Academic Technology Specialist for the Division of Literatures, Cultures, and Languages (DLCL). My role is to work with faculty and their research assistants as a consultant, collaborator, and innovator in DLCL-based digital humanities and instructional technology projects. I also organize and present workshops and lectures on practices and theories in these realms. 
+I work as the Academic Technology Specialist for the Division of Literatures, Cultures, and Languages (DLCL). A member of the Stanford Libraries' [https://cidr.stanford.edu](Center for Interdisciplinary Digital Research), I collaborate with faculty and their research assistants on digital humanities and instructional technology projects. I also teach courses on literature and digital humanities, write software, present workshops, and publish research.
 
 About this Site
 ======
