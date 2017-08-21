@@ -1,20 +1,25 @@
 ---
-title: "Samson's Touch and a Thin Red Line: Reading the Bodies of Jews and Saints in Bury St Edmunds"
+title: "Scholarly Adventures in Digital Humanities: Making the Modernist Archives Publishing Project"
 collection: publications
-permalink: /publication/samsons-touch-thin-red-line
-excerpt: 'On March 16, 1190, Palm Sunday weekend, a mob massed outside Clifford&#39;s Tower, to which the Jewish community of York had fled. Rather than face the mob, most of the Jews committed mass suicide, "the fathers of each Jewish household" cutting the throats of their wives and children.'
-date: 2012-07-01
-venue: 'Journal of English and Germanic Philology'
-paperurl: 'https://muse.jhu.edu/article/480795'
-citation: '&quot;Samson’s Touch and a Thin Red Line: Reading the Bodies of Jews and Saints in Bury St Edmunds,&quot; Journal of English and Germanic Philology 111.3 (July 2012): 339–359'
+permalink: /publication/scholarly-adventures
+excerpt: 'How can we represent the material circumstances that have shaped modernist literary production and publishing in a digital form? How can we avoid providing just another content management system that divorces item from context?'
+date: 2017-05-01
+venue: 'New Directions in Book History'
+paperurl: 'http://www.palgrave.com/us/book/9783319472102'
 ---
+[<img style="float:left; margin-right:10px" src='/images/mapp_book.jpg'>](http://www.palgrave.com/us/book/9783319472102)[_Scholarly Adventures in Digital Humanities_](http://www.palgrave.com/us/book/9783319472102) addresses the gap between print and digital scholarly approaches by combining both praxis and theory in a case study of a new international collaborative digital project, the Modernist Archives Publishing Project. The twenty-first century has witnessed, and is living through, some of the most dynamic changes ever experienced in the publishing industry, arguably altering our very understanding of what it means to read a book. This book brings to both general readers and scholarly researchers a new way of accessing, and thereby assessing, the historical meanings of change within the twentieth-century publication industry by building a resource which organises, interacts with, and uses historical information about book culture to narrate the continuities and discontinuities in reading and publishing over the last century.
 
-[Read paper here](https://muse.jhu.edu/article/480795)
-
-
-Excerpt
+Excerpts
 =======
-On March 16, 1190, Palm Sunday weekend, a mob massed outside Clifford's Tower, to which the Jewish community of York had fled. Rather than face the mob, most of the Jews committed mass suicide, "the fathers of each Jewish household" cutting the throats of their wives and children. Those who tried to escape were massacred once outside. Between 150 and 500 Jews died. While this tragedy "has become . . . the single most famous incident in the history of the medieval English Jewry," other, less well-known massacres occurred contemporaneously. On March 18, two days after the York deaths, townspeople of Bury St Edmunds massacred fifty-seven Jews. Later that year, Abbot Samson expelled the remaining Jews from Bury on a nearly inexplicable pretext. Jocelin of Brackland, in his Chronicle of the Abbey of Bury Saint Edmunds, neglects to mention the massacre, yet declares the expulsion to be a sign of Samson's magne probitatis (great goodness). Eight years later, after a fire burned the shrine of St Edmund, the monks of Bury translated the saint's body under Samson's direction. In contrast to the scant description of the historically significant expulsion, Jocelin, in what Anthony Bale calls "an arresting passage of mysterious ceremony," lavishes narrative attention upon the translation of and Samson's interactions with the incorrupt corpse of St. Edmund, king and martyr. Although the expulsion and the translation seem at first unconnected, I will show that a close examination of the two events reveals medieval ideas about bodily and spiritual purity that entwine the identities of saints, Christians, and Jews.
+With MAPP, we wanted to construct our digital archive—-an aggregation of the digitized materials held by numerous library-based archives—-so that we could answer questions pertinent to our scholarship while also transforming the materials into a network of relationships that future scholars might use. This goal meant that we needed to consider the standards for information organization and access. Rather than an archive in the strictest definition of the word, what we sought to build was a collection of related materials from geographically disparate (sometimes called ‘diasporic’) archives so that our team’s desired scholarly narratives can come more easily to the fore. 
+
+. . .
+
+How can we represent the material circumstances that have shaped modernist literary production and publishing in a digital form? How can we avoid providing just another content management system that divorces item from context? Clearly, a digital collection can never substitute for direct engagement with the print materials, but it can foreground the physical through metadata and newly digitized images of the material conditions.
+
+. . .
+
+One goal behind our development of a critical digital archive is to promote the idea that building an archive is itself a form of scholarship that can be generative of new scholarly thinking and writing. The MAPP archive argues that material publishing practices shaped modernism and feminism, that these practices are critical for the comprehension of modernism’s context and development, and that the Hogarth Press is a particularly suitable and telling case study for the interplay between publishing and literary creation.
 
 
-Recommended citation: "Samson’s Touch and a Thin Red Line: Reading the Bodies of Jews and Saints in Bury St Edmunds," _Journal of English and Germanic Philology_ 111.3 (July 2012): 339–359.
+Recommended citation: Claire Battershill, Helen Southworth, Alice Staveley, Michael Widner, Elizabeth Willson Gordon, and Nicola Wilson. _Scholarly Adventures in Digital Humanities: Making the Modernist Archives Publishing Project_. Palgrave, 2017.
