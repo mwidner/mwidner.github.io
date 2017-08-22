@@ -9,6 +9,7 @@
 locale                   : "en-US"
 title                    : "Michael Widner"
 title_separator          : "-"
+future                   : true
 name                     : &name "Michael Widner"
 description              : &description "Personal website for Michael Widner"
 url                      : http://localhost:4000 # the base hostname & protocol for your site e.g. "https://mwidner.github.io"
@@ -73,14 +74,14 @@ social:
 analytics:
   provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          :
+    tracking_id          : "UA-34834022-1"
 
 
 # Site Author
 author:
   name             : "Michael Widner"
   avatar           : "profile_picture.jpg"
-  bio              : "Digital Humanities\n\nMedieval Literature\n\nCognitive Science"
+  bio              : "Digital Humanities\n\nMedieval Literature\n\nCognitive Psychology"
   location         : 
   employer         : "Stanford University"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=RmrJsewAAAAJ"
