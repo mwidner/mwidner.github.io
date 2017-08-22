@@ -3,6 +3,7 @@
    ========================================================================== */
 
 .page__footer {
+  text-align: center;
   @include full();
   @include clearfix;
   margin-top: 3em;

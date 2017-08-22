@@ -3,7 +3,12 @@
    ========================================================================== */
 
 .masthead {
+  width: 80%;
+  max-width: 938px;
+  margin-left: auto;
+  margin-right: auto;
   position: relative;
+  background: url('/files/medieval_to_digital.png');
   border-bottom: 1px solid $border-color;
   -webkit-animation: intro 0.3s both;
           animation: intro 0.3s both;
@@ -32,6 +37,7 @@
 }
 
 .masthead__menu {
+  opacity: .8;
 
   ul {
     margin: 0;
