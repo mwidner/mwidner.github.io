@@ -1,7 +1,7 @@
 ---
 title: "Turn, Counter-turn, Stand and Weep: Three Elegiac Odes"
-collection: publications
-permalink: /publication/thesis
+collection: research
+permalink: /research/thesis
 excerpt: 'A study of the elegiac ode as a genre, focusing on three poems.'
 venue: 'UMI Dissertation Services'
 date: 2006-05-01

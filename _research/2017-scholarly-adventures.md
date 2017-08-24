@@ -1,7 +1,7 @@
 ---
 title: "Scholarly Adventures in Digital Humanities: Making the Modernist Archives Publishing Project"
-collection: publications
-permalink: /publication/scholarly-adventures
+collection: research
+permalink: /research/scholarly-adventures
 excerpt: 'How can we represent the material circumstances that have shaped modernist literary production and publishing in a digital form? How can we avoid providing just another content management system that divorces item from context?'
 date: 2017-05-01
 venue: 'New Directions in Book History'

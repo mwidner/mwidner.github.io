@@ -1,7 +1,7 @@
 ---
 title: "The Problems with Genius: Annotation, Consensus, and Bias"
-collection: publications
-permalink: /publication/problems-genius
+collection: research
+permalink: /research/problems-genius
 excerpt: 'Like Wikipedia, Genius assumes that collaboratively-authored annotations can lead to a stable, monolithic truth about a text, a kind of crowdsourced exegesis. This model fails to respect the possibilities of divergent readings and collapses ambiguity into single narratives authored via consensus.'
 date: 2015-04-24
 venue: 'Manuscripts and Machines'

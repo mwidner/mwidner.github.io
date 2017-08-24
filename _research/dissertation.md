@@ -1,7 +1,7 @@
 ---
 title: "Genre Trouble: Embodied Cognition in Fabliaux, Chivalric Romance, and Latin Chronicle"
-collection: publications
-permalink: /publication/dissertation
+collection: research
+permalink: /research/dissertation
 excerpt: 'My dissertation examines the intersection between theories of body and of genre through the lens of cognitive science. It focuses, in particular, on representations of bodies in exemplars of fabliaux in Old French and Middle English, chivalric romance that feature the figure of Sir Gawain, and the Latin _Chronicle of Bury St Edmunds_.'
 venue: 'The University of Texas at Austin digital repository'
 date: 2014-05-01

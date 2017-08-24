@@ -1,7 +1,7 @@
 ---
 title: "Toward Text-Mining the Middle Ages: Digital Scriptoria and Networks of Labor"
-collection: publications
-permalink: /publication/text-mining-middle-ages
+collection: research
+permalink: /research/text-mining-middle-ages
 excerpt: 'Some questions that we might pose of medieval corpora that are currently impossible to answer definitively, but that would become possible if we encourage digital scriptoria include: How did genres develop and change over time? What are the salient stylistic features of genres and vernacular literatures? Do these stylistic or topical markers vary across regions within the same language?'
 date: 2017-08-01
 venue: 'Digital Medieval Literature and Culture'
