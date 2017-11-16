@@ -1,12 +1,11 @@
---
+---
 title: "Samson's Touch and a Thin Red Line: Reading the Bodies of Jews and Saints in Bury St Edmunds"
 collection: research
-permalink: /research/samsons-touch-thin-red-line
-excerpt: 'On March 16, 1190, Palm Sunday weekend, a mob massed outside Clifford&#39;s Tower, to which the Jewish community of York had fled. Rather than face the mob, most of the Jews committed mass suicide, \"the fathers of each Jewish household\" cutting the throats of their wives and children.'
+permalink: /research/samsons-touch
+excerpt: "On March 16, 1190, Palm Sunday weekend, a mob massed outside Clifford's Tower, to which the Jewish community of York had fled. Rather than face the mob, most of the Jews committed mass suicide, 'the fathers of each Jewish household' cutting the throats of their wives and children."
 date: 2012-07-01
 venue: 'Journal of English and Germanic Philology'
 paperurl: 'https://muse.jhu.edu/article/480795'
-citation: ''
 ---
 [Read paper here](https://muse.jhu.edu/article/480795)
 
@@ -17,4 +16,4 @@ On March 16, 1190, Palm Sunday weekend, a mob massed outside Clifford's Tower, t
 
 Recommended Citation
 ------
-Widner, Michael. "Samson’s Touch and a Thin Red Line: Reading the Bodies of Jews and Saints in Bury St Edmunds," _Journal of English and Germanic Philology_ 111.3 (July 2012): 339–359.
+Widner, Michael. "Samson's Touch and a Thin Red Line: Reading the Bodies of Jews and Saints in Bury St Edmunds," _Journal of English and Germanic Philology_ 111.3 (July 2012): 339–359.
